@@ -1,2 +1,3 @@
 # paddle-bounce
-paddle bounce
+Paddle Bounce
+
